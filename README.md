@@ -40,9 +40,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta
   <summary><strong>‼️ Antes de começar a desenvolver</strong></summary><br />
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-0x-project-meme-generator.git`
+  * `git clone git@github.com:tryber/sd-025-b-project-meme-generator.git`
   * Entre na pasta do repositório que você acabou de clonar:
-    * `cd sd-0x-project-meme-generator`
+    * `cd sd-025-b-project-meme-generator`
 
 2. Instale as dependências e inicialize o projeto
   * Instale as dependências:
@@ -59,7 +59,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta
 
 4. Crie na raiz do projeto os arquivos que você precisará desenvolver:
   * Verifique que você está na raiz do projeto
-    * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/joaozinho/code/**sd-0x-project-meme-generator**_
+    * Exemplo: `pwd` -> o retorno vai ser algo tipo _/Users/joaozinho/code/**sd-025-b-project-meme-generator**_
   * Crie os arquivos index.html, style.css e script.js
     * Exemplo: `touch index.html style.css script.js`
 
@@ -79,7 +79,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta
   * Usando o exemplo anterior: `git push -u origin joaozinho-meme-generator-project`
 
 7. Crie um novo `Pull Request` _(PR)_
-  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-project-meme-generator/pulls)
+  * Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-025-b-project-meme-generator/pulls)
   * Clique no botão verde _"New pull request"_
   * Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
   * Clique no botão verde _"Create pull request"_
@@ -115,7 +115,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do [Código de Conduta
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-025-b`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
