@@ -1,0 +1,60 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Crie um input de texto",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Crie uma função que execute upload de imagem",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Adicione uma moldura no preview de visualização",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Adicione o texto que será inserido sobre a imagem",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Limite o tamanho do texto do meme",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "6 - Crie três botões que alterem as cores da borda dos memes",
+      "enabled": true,
+      "identifier": null,
+      "order": 6,
+      "skill_ids": []
+    },
+    {
+      "bonus": true,
+      "description": "7 - Crie um conjunto de quatro imagens pré prontas que permita que a pessoa usuária possa escolher",
+      "enabled": true,
+      "identifier": null,
+      "order": 7,
+      "skill_ids": []
+    }
+  ]
+}
