@@ -1,8 +1,8 @@
 const input = document.createElement('input');
 input.id = 'text-input';
 input.type = 'text';
-// input.placeholder = 'Escreva aqui';
-input.max = 60;
+input.placeholder = 'Escreva aqui';
+input.maxLength = 60;
 document.body.appendChild(input);
 const conteiner = document.createElement('div');
 conteiner.id = 'meme-image-container';
